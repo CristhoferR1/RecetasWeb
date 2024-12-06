@@ -2,6 +2,13 @@
 
 Este proyecto es una aplicación web que permite a los usuarios buscar recetas, ver detalles de cada una y guardarlas en una lista de favoritos. Los usuarios pueden agregar y eliminar recetas de sus favoritos directamente desde el modal de detalles de la receta.
 
+# Preview
+<img src="https://github.com/CristhoferR1/RecetasWeb/blob/main/assets/Inicio.jpg?raw=true" width="60%" style="width: 100%; height: auto; object-fit: contain;" />
+<img src="https://github.com/CristhoferR1/RecetasWeb/blob/main/assets/filtrado-categoria.jpg?raw=true" width="60%" style="width: 100%; height: auto; object-fit: contain;" />
+<img src="https://github.com/CristhoferR1/RecetasWeb/blob/main/assets/favoritos-modal.jpg?raw=true" width="60%" style="width: 100%; height: auto; object-fit: contain;" />
+
+
+
 ## Características
 
 - **Búsqueda de Recetas:** Los usuarios pueden buscar recetas por nombre usando la API de TheMealDB.
@@ -30,7 +37,7 @@ Este proyecto es una aplicación web que permite a los usuarios buscar recetas, 
 ## Uso
 
 1. **Buscar recetas:**
-    - Ingresa el nombre de una receta en el campo de búsqueda y haz clic en el botón de búsqueda.
+    - Ingresa la Categoria que buscas en las disponibles
     - Los resultados de la búsqueda se mostrarán en tarjetas con el nombre y la imagen de cada receta.
 
 2. **Ver detalles de una receta:**
