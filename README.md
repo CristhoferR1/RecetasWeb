@@ -22,7 +22,7 @@ Este proyecto es una aplicación web que permite a los usuarios buscar recetas, 
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/proyecto-recetas.git
+    git clone https://github.com/CristhoferR1/RecetasWeb.git
     ```
 
 2. Abre el archivo `index.html` en tu navegador para ver el proyecto en funcionamiento.
