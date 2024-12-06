@@ -3,6 +3,7 @@
 Este proyecto es una aplicación web que permite a los usuarios buscar recetas, ver detalles de cada una y guardarlas en una lista de favoritos. Los usuarios pueden agregar y eliminar recetas de sus favoritos directamente desde el modal de detalles de la receta.
 
 # Preview
+Live Demo: [https://recetaswebeningles.netlify.app/apprecetas/views/](https://recetaswebeningles.netlify.app/apprecetas/views/)
 <img src="https://github.com/CristhoferR1/RecetasWeb/blob/main/assets/Inicio.jpg?raw=true" width="60%" style="width: 100%; height: auto; object-fit: contain;" />
 <img src="https://github.com/CristhoferR1/RecetasWeb/blob/main/assets/filtrado-categoria.jpg?raw=true" width="60%" style="width: 100%; height: auto; object-fit: contain;" />
 <img src="https://github.com/CristhoferR1/RecetasWeb/blob/main/assets/favoritos-modal.jpg?raw=true" width="60%" style="width: 100%; height: auto; object-fit: contain;" />
